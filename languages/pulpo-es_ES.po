@@ -1,0 +1,125 @@
+# Copyright (C) 2023 Automattic
+# This file is distributed under the same license as the WooCommerce plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce 4.7.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/woocommerce\n"
+"POT-Creation-Date: 2021-01-21 16:15+0100\n"
+"PO-Revision-Date: 2023-01-27 16:41+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.1.1\n"
+"X-Domain: woocommerce\n"
+
+msgid "General Settings"
+msgstr "Configuración general"
+
+msgid "Test Mode"
+msgstr "Modo Test"
+
+msgid "Production Mode"
+msgstr "Modo Producción"
+
+msgid "Logs"
+msgstr "Logs"
+
+msgid "Resend to Pulpo"
+msgstr "Reenviar a Pulpo"
+
+msgid "It seems that the order could not be created in Pulpo. You can use the following button to force submission."
+msgstr "Parece que el pedido no se ha creado en Pulpo. Puede usr el siguiente botón para forzar un nuevo intento."
+
+msgid "Submit to Pulpo"
+msgstr "Enviar a Pulpo"
+
+msgid "Configuration is not complete for active Test mode"
+msgstr "La configuración no está completada para el modo Test"
+
+msgid "Configuration is not complete for active Prod mode"
+msgstr "La configuración no está completada para el modo Producción"
+
+msgid "Action required: Please complete the plugin configuration"
+msgstr "Acción requerida: Por favor complete la configuración del plugin"
+
+msgid "There are already configured WebHooks. You can reconfigure them"
+msgstr "Los webhooks se han configurado. Si quiere puede reconfigurarlos"
+
+msgid "There are no WebHooks created in Pulpo. You can configure them"
+msgstr "No se han creado los Webhools para Pulpo"
+
+msgid "Conf. WebHooks"
+msgstr "Conf. WebHooks"
+
+msgid "Add products"
+msgstr "Añadir productos"
+
+msgid "One moment, please..."
+msgstr "Un momento, por favor..."
+
+msgid "WebHooks configured successfully. Please access to the Pulpo panel to validate that they are correct."
+msgstr "Los WebHooks se han configurado. Por favor acceda al panel de Pulpo para validar que son correctos."
+
+msgid "Products added successfully. Please access to the Pulpo panel to validate that they are correct."
+msgstr "Los productos se han añadido. Por favor acceda al panel de Pulpo para validar que son correctos."
+
+msgid "Pulpo Configuration"
+msgstr "Configuración de Pulpo"
+
+msgid "Order State"
+msgstr "Estado del pedido"
+
+msgid "Order State after Pulpo sent"
+msgstr "Estado del pedido después de que Pulpo lo envíe"
+
+msgid "If you check this option, all orders will be shipped through Pulpo. To configure different shipping methods and carriers by zones and countries uncheck this option."
+msgstr "Si marca esta opción, todos los pedidos se enviarán a través de Pulpo. Para configurar diferentes métodos de envío y transportistas por zona y país desmarque esta opción."
+
+msgid "If you uncheck this option, you must configure different shipping methods and carriers by zones and countries from Woocommerce options. Otherwise the orders will not arrive to Pulpo."
+msgstr "Si desmarca esta opción, debe configurar diferentes métodos de envío y transportistas por zona y país desde las opciones de Woocommerce. De lo contrario, los pedidos no llegarán a Pulpo."
+
+msgid "Forcing shipments through Pulpo"
+msgstr "Forzar envíos a través de Pulpo"
+
+msgid "Unespected error:"
+msgstr "Error inesperado:"
+
+msgid "Please select default shipping method"
+msgstr "Por favor seleccione un método de envío por defecto"
+
+msgid "Username"
+msgstr "Nombre de usuario"
+
+msgid "Password"
+msgstr "Contraseña"
+
+msgid "API url"
+msgstr "API url"
+
+msgid "Default tenant id"
+msgstr "Tenant ID por defecto"
+
+msgid "Default shipping method"
+msgstr "Método de envío por defecto"
+
+msgid "Indicate in which order status it will be sent to Pulpo"
+msgstr "Indicar en qué estado debe estar un pedido para enviarse a Pulpo"
+
+msgid "What state to change the order to when Pulpo ships it"
+msgstr "Estado el el que quedará un pedido cuando Pulpo lo envíe"
+
+msgid "Send order to Pulpo"
+msgstr "Enviar pedido a Pulpo"
+
+msgid "Error when serializing the order to send it to Pulpo: %s"
+msgstr "Error al serializar el pedido para enviarlo a Pulpo: %s"
+
+msgid "Unspected error when serializing the order to send it to Pulpo"
+msgstr "Error inesperado al serializar el pedido para enviarlo a Pulpo"
+
+msgid "Enable 3PL/fulfiller mode."
+msgstr "Activar modo 3PL/fulfiller."
